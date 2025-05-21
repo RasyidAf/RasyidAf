@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Front End Web Developer<br>👯 I’m looking to collaborate on github and discord<br>🤝 I’m looking for help with everyone<br>🌱 I’m currently learning Web Developer<br>💬 Ask me about how life work<br>⚡ Fun fact i like philosophy
+🔭 Currently building: Front-end applications with React.js<br>🤝 Open to collaborate: Always happy to connect on GitHub or Discord<br>🌱 Currently learning: Full-stack Web Development (JavaScript, Node.js, APIs, and more)<br>💬 Ask me about: Web development, problem-solving, and the intersection of technology and life<br>⚡ Fun fact: I'm passionate about philosophy and how it shapes our perspective on technology
 
 
 ## 🌐 Socials:
